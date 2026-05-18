@@ -1,4 +1,4 @@
-### Olá, Meu nome é Gabriel Kobayashi Barboza
+# Olá, Meu nome é Gabriel Kobayashi Barboza
 
 ## Sobre mim
 
