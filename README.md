@@ -10,7 +10,7 @@ Proficiente em otimização de performance e refatoração de código, com forte
 
 **Aplicações e dados**
 
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=.NET&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-333333?style=flat&logo=.NET&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -24,7 +24,7 @@ Proficiente em otimização de performance e refatoração de código, com forte
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=AWS)
 
 **Ferramentas de desenvolvimento**
 
